@@ -1,0 +1,26 @@
+.divA{
+    background-color: #6C244C;
+    height: 500px;
+    width: 500px;
+}
+#divb{
+    background-color: #990f4b;
+    height: 50%;
+    width: 50%;
+
+}
+.divD{
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(187,38, 73);
+}
+#divE{
+    height: 50%;
+    width: 50vh;
+    background-color: rgb(190, 52, 85);
+}
+#p{
+    font-size: 25px;
+    font-family: Franklin Gothic Medium sans-serif;
+  
+}
